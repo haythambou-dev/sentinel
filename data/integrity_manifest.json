@@ -1,0 +1,10 @@
+{
+    "core/config.py": "b679e3dff9c1f5d38570c1de9d4f6a9fa88fba44dadb5bd3d4c30212acdb6988",
+    "core/protection.py": "36994e9be531062b5cea4c9f307a241a699b9422b971e04ced17009e9184c06d",
+    "core/login_monitor.py": "e61eca7e24ba5545b7b5847a5b3eae7496f51fe42a6a2cf5f58d265fa91ec001",
+    "core/incident_manager.py": "a006ecbc77cdb009ea6dded93be3c1de63b81e334f3163a97fdeaec0f5588ca0",
+    "usb_guard/device_monitor.py": "777da7a608f1ba13fca52114570f91669d821416beae080a66941d73019c5ded",
+    "recovery/recovery_manager.py": "25668bc2f259210ec6e37b293bdf8ba431aba455b0b25ec7ab09ff8b1db22555",
+    "notifications/phone_alerts.py": "d3ef2d5beb7f8c71777a8e5cc7069e6da80f819203bd552f1441130211f87e3d",
+    "investigator/security_agent.py": "d828b5bb7f6c6ba0da2c3a73ec87316ea13584c69d813f09752ea2c40e181460"
+}

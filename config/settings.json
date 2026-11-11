@@ -1,0 +1,11 @@
+{
+    "armed": false,
+    "failed_attempt_threshold": 3,
+    "time_window_seconds": 300,
+    "usb_guard_enabled": true,
+    "telegram_notifications_enabled": false,
+    "telegram_bot_token": "",
+    "telegram_chat_id": "",
+    "password_hash": "786dc21015ddd1b69a620ded5e0d478b$757805d0354f53778cbd9196ed8f39bc69e460297e807f834d8508eb4003e63f",
+    "armed_timestamp": 1794411054.128082
+}

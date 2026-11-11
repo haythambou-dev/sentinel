@@ -1,0 +1,46 @@
+[
+    {
+        "id": "26da2511",
+        "timestamp": "2026-11-11T15:30:54.152413",
+        "category": "SYSTEM_STATE",
+        "severity": "LOW",
+        "details": {
+            "message": "SENTINEL protection disarmed by user."
+        },
+        "ai_status": "PENDING",
+        "notification_status": "QUEUED"
+    },
+    {
+        "id": "40b69d9a",
+        "timestamp": "2026-11-11T15:30:54.128082",
+        "category": "SYSTEM_STATE",
+        "severity": "LOW",
+        "details": {
+            "message": "SENTINEL protection armed by user."
+        },
+        "ai_status": "PENDING",
+        "notification_status": "QUEUED"
+    },
+    {
+        "id": "007b80a5",
+        "timestamp": "2026-11-11T15:30:54.120266",
+        "category": "SYSTEM_STATE",
+        "severity": "LOW",
+        "details": {
+            "message": "SENTINEL protection disarmed by user."
+        },
+        "ai_status": "PENDING",
+        "notification_status": "QUEUED"
+    },
+    {
+        "id": "33d27be1",
+        "timestamp": "2026-11-11T15:30:54.104074",
+        "category": "TEST_EVENT",
+        "severity": "HIGH",
+        "details": {
+            "test_key": "test_value"
+        },
+        "ai_status": "PENDING",
+        "notification_status": "QUEUED"
+    }
+]

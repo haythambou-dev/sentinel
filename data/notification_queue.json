@@ -1,0 +1,18 @@
+[
+    {
+        "message": "Test security alert message",
+        "retries": 0
+    },
+    {
+        "message": "E2E test alert notification",
+        "retries": 0
+    },
+    {
+        "message": "\ud83d\udcca *SENTINEL STATUS*\nProtection: ARMED \ud83d\udfe2",
+        "retries": 0
+    },
+    {
+        "message": "\ud83d\udcca *SENTINEL STATUS*\nProtection: DISARMED \ud83d\udfe1",
+        "retries": 0
+    }
+]
